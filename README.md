@@ -1,4 +1,3 @@
-# python-course-exercises
 # Python Course Exercises
 
 This repository contains a collection of Jupyter Notebooks and Python scripts created during university coursework, tutorials, and exam preparation. These exercises reflect practical hands-on training in programming, data structures, and basic algorithm design.
