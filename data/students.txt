@@ -1,0 +1,561 @@
+1809;00001;Johann Simon Wieland;Architektur
+1809;00002;Joseph Kellerhoven;Malerei
+1809;00003;Joseph Paeringer;Malerei
+1809;00004;Louis Schönche;Malerei
+1809;00005;Joseph Rollinger;Zeichnen
+1809;00006;Joseph Thürmer;Architektur
+1809;00007;Anton Wemmer;Malerei
+1809;00008;Joseph Hickl;Malerei
+1809;00009;Johann Nepomuk Muxel;Malerei
+1809;00010;Dominic Quaglio;Malerei
+1809;00011;Ignatz Georg von Riedl;Malerei
+1809;00012;Ferdinand Pilotti;Malerei
+1809;00013;Nepomuk Strixner;Druckgraphik
+1809;00014;Maximilian Eichhammer;Architektur
+1809;00015;Alois Elmenreich;Malerei
+1809;00016;Joseph Pirkinger;Architektur
+1809;00017;Stephan Möstl;Malerei
+1809;00018;Simon Fritzmair;Malerei
+1809;00019;Jakob Friedrich Höppl;Malerei
+1809;00020;Carl Friedrich Stein;Malerei
+1809;00021;Carl Leoprecht Rehlen;Druckgraphik
+1809;00022;Joseph Schlotthauer;Malerei
+1809;00023;Peter Hess;Malerei
+1809;00024;Georg Wilhelm Melchior;Malerei
+1809;00025;Balthasar Baier;Malerei
+1809;00026;Ludwig Aemilius Grimm;Druckgraphik
+1809;00027;Clemens Zimmermann;Malerei
+1809;00028;Georg Scharff;Malerei
+1809;00029;Martin Hegele;Malerei
+1809;00030;Angelo Quaglio;Malerei
+1809;00031;Carl Friedl;Zeichnen
+1809;00032;Georg Fried. Fleischmann;Malerei
+1809;00033;Friedrich Gaertner;Architektur
+1809;00034;Joseph Schnitzer;Malerei
+1809;00035;Martin Dorner;Druckgraphik
+1809;00036;Anton Weidenhüller;Malerei
+1809;00037;Maximilian Frank;Malerei
+1809;00038;Joseph Ignatz Denz;Malerei
+1809;00039;Joseph Anton Rhomberg;Malerei
+1809;00040;Joseph Muxel;Malerei
+1809;00041;Sigmund von Perglass;Zeichnen
+1809;00042;Johann Baptist von Sell;Architektur
+1809;00043;Sebastian Glätzle;Malerei
+1809;00044;Michael Reisach;Malerei
+1809;00045;Ludwig Emmert;Malerei
+1809;00046;Blasius Marx;Malerei
+1809;00047;Wilhelm Schiessl;Malerei
+1809;00048;Jacob Königshöfer;Malerei
+1809;00049;Johann Nepomuk Lentl;Malerei
+1809;00050;Albrecht Adam;Malerei
+1809;00051;Johann Baptist Muxel;Malerei
+1809;00052;Johann Bernhard Rämpl;Bildhauerei
+1809;00053;Wilhelm Legrand;Malerei
+1809;00054;Alois Laimer;Bildhauerei
+1809;00055;Ignatz Lanz;Malerei
+1809;00056;Carl Skell   1ter;Zeichnen
+1809;00057;Carl Skell   2ter;Zeichnen
+1809;00058;Joseph Pötzenhammer;Druckgraphik
+1809;00059;Anton Riederer;Architektur
+1809;00060;Joseph Schleich;Zeichnen
+1809;00061;Franz Xaver Maixner;Malerei
+1809;00062;Baron von Oefele;Malerei
+1809;00063;Lorenz Schöpf;Architektur
+1809;00064;Xaver Mettenleitner;Malerei
+1809;00065;Joseph Kunz;Zeichnen
+1809;00066;Raphael Winter;Malerei
+1809;00067;August Ballemberger;Malerei
+1809;00068;Daniel Laib;Architektur
+1809;00069;Friedrich Reinhard;Architektur
+1809;00070;Anton Dietl;Architektur
+1809;00071;Joseph Kirchmair;Bildhauerei
+1809;00072;a Johann Baptist Stunz;Malerei
+1809;00072;b Xaver Wagner;Malerei
+1809;00073;Ernst Valentin Apollinar Schmitz;Zeichnen
+1809;00074;Christoph Maria Joseph Schmitz;Zeichnen
+1809;00075;Joseph Völlinger;Malerei
+1809;00076;Leonhard Rigauer;Zeichnen
+1809;00077;Otto Miller;Malerei
+1809;00078;Johann Baptist Ehemant ;Malerei
+1809;00079;Joseph Selb;Malerei
+1809;00080;Johann Mathäus Mauch;Architektur
+1809;00081;Georg Brenner;Malerei
+1809;00082;Sebastian Aiglstorfer;keine_angaben
+1809;00083;Joseph Jungermayer ;Zeichnen
+1809;00084;Georg Michael Oberer;Architektur
+1809;00085;Philipp Dombeck;Malerei
+1809;00086;Philipp Carl Offenmüller;Malerei
+1809;00087;Franz Wolfgang Rorich;Malerei
+1809;00088;Peter Kaufmann;Malerei
+1809;00089;Caspar Auer;Malerei
+1809;00090;Heinrich Koeck;Zeichnen
+1809;00091;Joseph Thanny;Zeichnen
+1809;00092;Xaver Kleiber;Zeichnen
+1809;00093;Johann Friedrich Trips;Architektur
+1809;00094;Clemens Jägerhuber †;Architektur
+1809;00095;Simon Millinger;Architektur
+1809;00096;Anton Weiß;Architektur
+1809;00097;Thomas Höhlein;Architektur
+1809;00098;Lorenz Quaglio;Zeichnen
+1809;00099;Max Kummerer  †;Architektur
+1810;00100;Johann Baptist Stiglmayr;Zeichnen
+1810;00101;Joseph Urban;Zeichnen
+1810;00102;Philipp Neuburger;Zeichnen
+1810;00103;Fortunatus Kals;Architektur
+1810;00104;Anton Fetterz;Malerei
+1810;00105;Johann Ulrich Himbsel;Architektur
+1810;00106;Johann Anton Falger;Malerei
+1810;00107;Baptist Muxel;Architektur
+1810;00108;Benedict Hauber;Malerei
+1810;00109;Nicolaus Drexel;Malerei
+1810;00110;Joseph Schenauer;Zeichnen
+1810;00111;Sebastian Rehenauer;Malerei
+1810;00112;Joseph Heiler;Zeichnen
+1810;00113;Michael Wild;Malerei
+1810;00114;Friedrich Schillinger;Malerei
+1810;00115;Franz Anton Wiedemann;Malerei
+1810;00116;Rudolph Tanner;Malerei
+1810;00117;Philipp Oelschläger;Zeichnen
+1810;00118;Siegfried Bendixen;Malerei
+1810;00119;Christoph Gottlieb Müller;Malerei
+1810;00120;Johann Wildnauer;Architektur
+1810;00121;Johann Anton Weiß;Architektur
+1810;00122;Joseph von Busch;Architektur
+1810;00123;Max von Busch;Architektur
+1810;00124;Carl Keßler;Malerei
+1810;00125;Andreas Theodor Mattenheimer;Malerei
+1810;00126;Kaspar Mattenheimer;Malerei
+1810;00127;Jacob Karg;keine_angaben
+1810;00128;Franz Hatzel;Bildhauerei
+1810;00129;Johann Wild;Malerei
+1811;00130;Anton Auer;keine_angaben
+1811;00131;Joseph Praun;keine_angaben
+1811;00132;Mathias Leis;Architektur
+1811;00133;Joseph Hautmann;Zeichnen
+1811;00134;Joseph Pfitzer;Architektur
+1811;00135;Johann Georg Gstrein;Bildhauerei
+1811;00136;Johann Haller;Bildhauerei
+1811;00137;Johann Bukh;Architektur
+1811;00138;Bernhard Rausch;Malerei
+1811;00139;Carl Schnitzler;Architektur
+1811;00140;Franz von Spiessen;Malerei
+1811;00141;Johann Friedrich Dieterich;Malerei
+1811;00142;Georg Friedrich Rauscher;Malerei
+1811;00143;Joseph Nauterer;Architektur
+1811;00144;Wolf / später  Wilhelm Kallmann / später Ney;Architektur
+1811;00145;Johann Walch;Malerei
+1811;00146;Ferdinand Kilian;Architektur
+1811;00147;Jacob Lyss ;Druckgraphik
+1811;00148;Philipp Krihtfeld;Malerei
+1811;00149;Philipp Schmidt;Zeichnen
+1811;00150;Anton Wölfl;Architektur
+1811;00151;Ferdinand Lingg;Zeichnen
+1811;00152;Joseph Reitz;Architektur
+1811;00153;Michael Neher;Zeichnen
+1811;00154;Philipp Joseph Kraus;Zeichnen
+1811;00155;Franz Loth;Malerei
+1811;00156;Bernhard Haller;Architektur
+1811;00157;Johann Widmann;Architektur
+1811;00158;Thomas Berr;Architektur
+1811;00159;Carl Reindl;Architektur
+1811;00160;Brulliot;Zeichnen
+1812;00161;Wilhelm Moser;Zeichnen
+1812;00162;Franz Xaver Habann;Druckgraphik
+1812;00163;Georg Friedrich Kappel;Zeichnen
+1812;00164;Johann Nepomuk Ortlieb;Malerei
+1812;00165;Joseph Jagendeubel;Malerei
+1812;00166;Nepomuk Digl;Architektur
+1812;00167;Alois Stadler;Malerei
+1812;00168;Alois Kolp;Malerei
+1812;00169;Johann Heinrich Julius Bortfeld;Bildhauerei
+1812;00170;Gottfried Gutensohn;Architektur
+1812;00171;Joseph Heilmayr;Zeichnen
+1812;00172;Johann Conrad Hottinger;Malerei
+1812;00173;Johann Nepomuk Aurbach;Malerei
+1812;00174;Johann Georg Schedler;Malerei
+1812;00175;Sebastian Scharnagel;Malerei
+1812;00176;Franz Waechter;Malerei
+1812;00177;Carl Valentin von Blank;Zeichnen
+1812;00178;Friedrich Rieger;Malerei
+1812;00179;Georg Friedrich Ziebland ;Architektur
+1812;00180;Daniel Joseph Ohlmüller;Architektur
+1812;00181;Cajetan Deisinger;Zeichnen
+1812;00182;Joseph Thoms;Zeichnen
+1812;00183;Florian Eckardt;Druckgraphik
+1812;00184;Michael Schmidt;Druckgraphik
+1812;00185;Johann Paulus Frank;Bildhauerei
+1812;00186;Thomas Melber;Zeichnen
+1812;00187;Albert Ziwey;Malerei
+1812;00188;Johann Baptist Mayr;Malerei
+1812;00189;Joseph Anton Geiger;Druckgraphik
+1812;00190;Daniel Zwinger;Malerei
+1812;00191;Ferdinand Gottlieb Reinhardt;Malerei
+1812;00192;Peter Lutz;Zeichnen
+1812;00193;Georg Kronast;Architektur
+1812;00194;Wolfgang Oberlechner;Malerei
+1812;00195;Christian La Schenzky;Architektur
+1812;00196;Sebastian Kröpfl;Zeichnen
+1812;00197;Jacob Koch;Zeichnen
+1812;00198;Joseph Nehr;Architektur
+1812;00199;Heinrich Heß;Zeichnen
+1812;00200;Ludwig Caspar Weiß;Malerei
+1812;00201;Jacob Heussler;Architektur
+1812;00202;Anton Beno Zottmayer;Malerei
+1812;00203;Anton Gaertner;Malerei
+1812;00204;Carl Zeller;Architektur
+1812;00205;Simon Reigginger;Architektur
+1812;00206;Anton Krammerer;Architektur
+1812;00207;Joseph Gail;Zeichnen
+1812;00208;Franz Paul Raßhofer;Malerei
+1812;00209;Wilhelm Rehlen;Architektur
+1812;00210;Joseph Prestele;Architektur
+1812;00211;Peter Wilhelm Schellenberg;Architektur
+1812;00212;Maximilian Joseph Metz;Malerei
+1813;00213;Johann Ludwig Zeitler;Architektur
+1813;00214;Carl Gottfried Eichler;Druckgraphik
+1813;00215;Joseph Gantner;Malerei
+1813;00216;Sebastian Schierl;Malerei
+1813;00217;Joseph Schlageter;Malerei
+1813;00218;a Anton von Grundner;Malerei
+1813;00218;b August, Graf von Seinsheim;keine_angaben
+1813;00219;Johann Friedrich Weber;Malerei
+1813;00220;Joseph Hämmerl;Malerei
+1813;00221;Charles Friedr. de Pourtales;Architektur
+1813;00222;Louis Auguste de Pourtales;Architektur
+1813;00223;Michael Maurer;Architektur
+1813;00224;C. Joseph Brodtmann;Malerei
+1813;00225;Franz Xaver Glink;Zeichnen
+1813;00226;Christian Adler;Malerei
+1813;00227;Friedrich Kappel;Malerei
+1813;00228;Johann Deisinger;Zeichnen
+1813;00229;Maria Ellenrieder;Malerei
+1813;00230;Anton Lang;Architektur
+1813;00241;Xaver Marx;Zeichnen
+1813;00242;Georg Gottfried Lechner;Architektur
+1813;00243;Louis Moyses Marschütz;Malerei
+1813;00244;Joseph Müller;Zeichnen
+1813;00245;Johann Baptist Hemmer;Architektur
+1813;00246;Anton Omminger;Malerei
+1813;00247;Johann Georg Breith;Architektur
+1813;00248;Ferdinand Kobell;Malerei
+1813;00249;Georg Seefried;Malerei
+1813;00250;Anton Buchner;Malerei
+1813;00251;Carl Mosler;Malerei
+1813;00252;Johann Paul Rummel;Malerei
+1813;00253;Friedrich Schoepke;Architektur
+1813;00254;Electrine Stunz;Malerei
+1813;00255;Louise Wolf;Zeichnen
+1813;00256;Franz Dahmen;Malerei
+1813;00257;Alois Aigelstorfer;Malerei
+1813;00258;Johann Georg Meyr;Architektur
+1813;00259;Heinrich Kranneck;Malerei
+1813;00260;Franz Xaver Müller;Malerei
+1814;00261;Joseph Mayer;Architektur
+-;00262;;
+1814;00263;Alois Prantner;Architektur
+1814;00264;Franz Paul Wieber;Druckgraphik
+1814;00265;Joseph Mayer;Zeichnen
+1814;00266;Charlotte Oberst;Malerei
+1814;00267;Louis Kohrsen;Malerei
+1814;00268;Ludwig Zeiss;Malerei
+1814;00269;Carl Schlotthauer;Malerei
+1814;00270;Joseph Moralt;Malerei
+1814;00271;Johann Weiß;Architektur
+1814;00272;Joseph Gschwind;Architektur
+1814;00273;Johann Jacob Kirchner;Zeichnen
+1814;00274;Johann Georg Schupp;Architektur
+1814;00275;Georg Stammler;Zeichnen
+1814;00276;Franz Heinrich Müller;Malerei
+1814;00277;Joseph Keck;Architektur
+1814;00278;Joseph Balistier;Architektur
+1814;00279;Johann Gottlieb Rist;Druckgraphik
+1814;00280;Carl Haemmerl;Architektur
+1814;00281;Gerhard Sipmann;Malerei
+1814;00282;Carl Thelot;Malerei
+1814;00283;Carl Barth;Druckgraphik
+1814;00284;Joseph Blume;Malerei
+1814;00285;Louis de Montmorillon;Druckgraphik
+1814;00286;Philipp Frühholz;Zeichnen
+1814;00287;Thadeus Köhler;Architektur
+1814;00288;Franz Stolz;Zeichnen
+1814;00289;Ignatz Amtmann;Zeichnen
+1814;00290;Samuel Amsler;Druckgraphik
+1814;00291;Leopold von Peter;Malerei
+1814;00292;Balthasar Blenz;Malerei
+1814;00294;Johann Michael Ströber;Zeichnen
+1814;00295;Wilhelm Werner;Architektur
+1814;00296;Max Joseph Lachhartinger;Zeichnen
+1814;00297;Adam Carl Hopfenmiller;Architektur
+1814;00298;Johann Buchwinkler;Malerei
+1814;00299;Ludwig Neuland;Architektur
+1814;00300;Carl Wenng;Malerei
+1814;00301;Carl Kummerer;Architektur
+1814;00302;Ignatz Klamm;Architektur
+1815;00303;Gottlieb Wilhelm Geyser;Malerei
+1815;00304;Fritz Braun;Zeichnen
+1815;00305;Georg Graf von Carneville;Zeichnen
+1815;00306;Joseph Gündter;Malerei
+1815;00307;Ernest von Moy;Zeichnen
+1815;00308;Ludwig, Baron von Perglas;Zeichnen
+1815;00309;Max Ditt;Zeichnen
+1815;00310;Georg Kirschner;Malerei
+1815;00311;Melchior Henzler;Malerei
+1815;00312;Sebastian Kirchmayr;Architektur
+1815;00313;Thade Schedel;Architektur
+1815;00314;Simon Steber;Zeichnen
+1815;00315;Johann Nepomuk Grill;Architektur
+1815;00316;Johann Alkens;Malerei
+1815;00317;Michael Haering;Zeichnen
+1815;00318;Georg Neidhart;Architektur
+1815;00319;Beno Huber;Zeichnen
+1815;00320;Carl Heß;Zeichnen
+1815;00321;Johann Anton Ramboux;Malerei
+1815;00322;Joseph Anton Gegenbauer;Malerei
+1815;00323;Karl Germain;Zeichnen
+1815;00324;Johann Doppler;Architektur
+1815;00325;Johann Conrad Ochlig;Malerei
+1815;00326;Franz Seraph. Gaemerter;Zeichnen
+1815;00327;Karl Lebschée;Malerei
+1815;00328;Joseph Werberger;Malerei
+1815;00329;Rupert Amann;Malerei
+1815;00330;Philipp Lemoine;Malerei
+1815;00331;Anton Hellmuth;Zeichnen
+1815;00332;Xaver Huber;Naturklasse
+1815;00333;Michael Holweck;Malerei
+1815;00334;Karl Fohr;Malerei
+1815;00335;Franz Saller;Malerei
+1815;00336;Johann Philipp Hoffmann;Architektur
+1815;00337;Ludwig Ruhl;Malerei
+1815;00338;Joh. Jak. Anton Müller;Malerei
+1815;00339;Karl Ludwig Müller;Malerei
+1815;00340;Friedrich Müller;Zeichnen
+1815;00341;Pangratzius Müller;Zeichnen
+1815;00342;Hermann Lehritter;Architektur
+1815;00343;Johann Baptist Weiß;Malerei
+1815;00344;Joseph Anton Hartmann;Malerei
+1815;00345;Karl Fahrenschon;Malerei
+1815;00346;Eduard Simon Dopfer;Druckgraphik
+1815;00347;Johannes Nepomuk Roth;keine_angaben
+1815;00348;Anton Pauly;Architektur
+1815;00349;Georg Bergmann;Malerei
+1815;00350;Giovanni Sander;keine_angaben
+1815;00351;Joseph Harscher;Zeichnen
+1815;00352;Simon Bausinger;Architektur
+1815;00353;Joseph Fiedler;Architektur
+1815;00354;Gaetano Giorgini;keine_angaben
+1815;00355;Christian Dreitzler;Malerei
+1815;00356;Carl Heinzmann;Malerei
+1815;00357;Xaver von Nachtmann;Zeichnen
+1816;00358;Franz Fesel;Zeichnen
+1816;00359;Andreas Hamann;Architektur
+1816;00360;Jacob Mayer;Zeichnen
+1816;00361;Johann Leeb;Bildhauerei
+1816;00362;Johann Lanz;Malerei
+1816;00363;Max Auer;Malerei
+1816;00364;Philipp Schwinn;Zeichnen
+1816;00365;Sebastian Heindl;Architektur
+1816;00366;Martin Egli;Druckgraphik
+1816;00367;Carl Friedrich Lefeubure;Malerei
+1816;00368;Joseph Meinrad Kaelin;Malerei
+1816;00369;Joseph Kappeler;Malerei
+1816;00370;Ludwig Förster;Architektur
+1816;00371;Anton Huber;Architektur
+1816;00372;Burkhard Huber;Architektur
+1816;00373;Martin Hausmann;Malerei
+1816;00374;Beno Keim;Malerei
+1816;00375;Georg Böhngen;Zeichnen
+1816;00376;Joseph Anton Mayer;Malerei
+1816;00377;Katharina von Predl;Zeichnen
+1816;00378;Johann Esslinger;Malerei
+1816;00379;Friedrich Paul Schelhorn;Malerei
+1816;00380;Egidius Seybold;Malerei
+1816;00381;Franz Horni;Malerei
+1816;00382;Caspar Buchs;Architektur
+1816;00383;Johann Schweicker;Druckgraphik
+1816;00384;Bernhard Freuler;Malerei
+1816;00385;Caspar Schinz;Malerei
+1816;00386;Joseph Boos;Malerei
+1816;00387;Caspar Schlaprizi;Malerei
+1816;00388;Alois Gagg;Architektur
+1816;00389;Gustav Hippius;Malerei
+1816;00390;Johann Ludwig Eggink;Malerei
+1816;00391;Ignatz Nikolaus Reichel;Malerei
+1816;00392;Jacob Hochbrand;Malerei
+1816;00393;Jacob Geisser;Malerei
+1816;00394;Felix Bockhorni;Malerei
+1816;00395;Joseph Ernst Bandel;Architektur
+1816;00396;Joseph Ernst;Architektur
+1816;00397;Anton Baumann;Malerei
+1816;00398;Peter Schöpf;Bildhauerei
+1816;00399;Georg Friedrich Vogel;Malerei
+1816;00400;Barras Brastberger;keine_angaben
+1816;00401;Ludwig Skell;Malerei
+1816;00407;Carl Deiglmaier;Architektur
+1817;00402;Pierre St. Germain;Zeichnen
+1817;00403;Nepomuk Ott;Malerei
+1817;00404;Mathias Hartmann;Malerei
+1817;00405;Franz Zehentner;Malerei
+1817;00406;Johann Nepomuk Hanke;Malerei
+1817;00408;Franz Xaver Fernbach;Zeichnen
+1817;00409;Mathias Hautmann;Bildhauerei
+1817;00410;Joseph Sedelmaier;Malerei
+1817;00411;Isabella Schweigger;Malerei
+1817;00412;Mathäus Mayer;Malerei
+1817;00413;Anton Mayer;Zeichnen
+1817;00414;Johann Adam Schmidt;Zeichnen
+1817;00415;Alois Gleich;Druckgraphik
+1817;00416;Sebastian Neuberger;Architektur
+1817;00417;Gustav Dittenberger;keine_angaben
+1817;00418;Anton Grünärmel;Zeichnen
+1817;00419;Wilhelm Gottfried Bauer;Malerei
+1817;00420;Andreas Eckner;Malerei
+1817;00421;Louise Seidler;Malerei
+1817;00422;Jeanette Kapp;Malerei
+1817;00423;Clemens Mayer;Architektur
+1817;00424;Friedrich Buser;Druckgraphik
+1817;00425;Johann Baptist Isenring;keine_angaben
+1817;00426;Ferdinand Hauptmann;Malerei
+1817;00427;Joseph Ludwig Zeiss;Malerei
+1817;00428;Ignatz Bergmann;Zeichnen
+1817;00429;Philipp Mutzhart;Malerei
+1817;00430;Johann Friedrich Kraemer;Architektur
+1817;00431;Johann Paul Birkel;Architektur
+1817;00432;Joseph Schott;Zeichnen
+1817;00433;Georg Schönner;Architektur
+1817;00434;Carl Held;Zeichnen
+1817;00435;Anton Köllmayer;Malerei
+1817;00436;Carl Kratzeisen;Malerei
+1817;00437;Peter Glaser;Malerei
+1817;00438;Carl Altmann;Malerei
+1817;00439;Max Giessen;Malerei
+1817;00440;Georg Mayer;Druckgraphik
+1817;00441;Joseph Schopper;Architektur
+1818;00442;Franz Paul Kainz;Malerei
+1818;00443;Johann Moritz Rugendas;Malerei
+1818;00444;Anna Beck;keine_angaben
+1818;00445;Joseph Anton Gaehwiler;Zeichnen
+1818;00446;Christoph Mayer;Malerei
+1818;00447;Moritz Oppenheim;Malerei
+1818;00448;Joseph Deinsel;Malerei
+1818;00449;Ernst Fries;Zeichnen
+1818;00450;Georg Lehrberger;Architektur
+1818;00451;Simon Loritz;Malerei
+1818;00452;Carl Hornstein;Zeichnen
+1818;00453;Johann Anton Fischer;Architektur
+1818;00454;Max Joseph Hütz;Malerei
+1818;00455;Fr. Winkler;Malerei
+1818;00456;Heinrich Kramer;Zeichnen
+1818;00457;Z. Bertini;Malerei
+1818;00458;Joseph Mettenleitner;Architektur
+1818;00459;Johann Baptist Klee;Architektur
+1818;00460;Gustav Alexander Traiteur;Druckgraphik
+1818;00461;Friedrich Seelinger;Malerei
+1818;00462;Franz Kühlen;Malerei
+1818;00463;Anton, Baron von Niedermaier;Malerei
+1818;00464;Paul Emil Jacobs;Malerei
+1818;00465;Wilhelm Röckl;Malerei
+1818;00466;Clemens Hess;keine_angaben
+1818;00467;Joseph Weber;Malerei
+1818;00468;Wilhelm Strecker;Malerei
+1818;00469;Karl Schleich;Druckgraphik
+1818;00470;Franz Xaver Joseph Eichheim;Architektur
+1818;00471;August Riedel;Malerei
+1818;00472;Johann Bürgel;Architektur
+1818;00473;Heinrich Wilhelm Schwalbe;Malerei
+1818;00474;Karl Röhrer;Architektur
+1818;00475;Elisabeth Sauter;Malerei
+1818;00476;Michael Lueger;keine_angaben
+1818;00477;Lorenz Madler;Architektur
+1818;00478;Joseph Kellner;Malerei
+1818;00479;Jacob Meixner;Malerei
+1818;00480;Wilhelm Gail;Architektur
+1818;00481;David Unterrainer;keine_angaben
+1818;00482;Arnold Seltenhorn;keine_angaben
+1818;00483;Andreas Zatler;keine_angaben
+1818;00484;Monica Daubmann;keine_angaben
+1818;00485;Johann Elias Querfeld;Architektur
+1818;00486;Lucas Schleicher;Malerei
+1818;00487;Ernst Mayer;Bildhauerei
+1818;00488;Johann Georg Krauter;Bildhauerei
+1818;00489;Franz von Peter;Architektur
+1818;00490;Anton Rieghammer;Architektur
+1818;00491;Johann Lieglin;Architektur
+1818;00492;Joseph Georg Fischer;Malerei
+1818;00493;Johann Albani;Malerei
+1818;00494;Kajetan Mosmayer;Architektur
+1818;00495;Max Joseph Deiglmaier;Architektur
+1818;00496;Franz Xaver Luber;Architektur
+1818;00497;Detlef Conrad Blunk;Malerei
+1818;00498;Georg Haas;Architektur
+1819;00499;Albinus Kreill;Architektur
+1819;00500;Joseph Arnold;Zeichnen
+1819;00501;Leonhard Schmidtner;Architektur
+1819;00502;Johann Kilian Lang;Architektur
+1819;00503;Johann Baptist Pfaff;Zeichnen
+1819;00504;Jacob Braeutigam;Malerei
+1819;00505;Johann Baptist Dauerer;Zeichnen
+1819;00506;Friederica Adler;Malerei
+1819;00507;Christian Heinrich Schneider;Malerei
+1819;00508;Jeremias Neustaedter;Zeichnen
+1819;00509;Johanna Albrecht;Zeichnen
+1819;00510;Franz Hanfstaengl;Malerei
+1819;00511;Friedrich Enger;Malerei
+1819;00512;Karl Bock;Malerei
+1819;00513;Ignatz Kirchbichler;Malerei
+1819;00514;Gottlieb Bischoff;keine_angaben
+1819;00515;Maximiliana Pernel;keine_angaben
+1819;00516;Carl Haushalter;Zeichnen
+1819;00517;Carl Keim;Architektur
+1819;00518;Georg Kapeller;Architektur
+1819;00519;Jacob Schlesinger;Malerei
+1819;00520;Baron von Völderndorf;keine_angaben
+1819;00521;Heinrich Frese;Bildhauerei
+1819;00522;Nicolaus Leskow;Malerei
+1819;00523;Beno Keim;Malerei
+1819;00524;Anton Huber;Zeichnen
+1819;00525;Jacob Schleich;Malerei
+1819;00526;Anton Pfaettisch;Malerei
+1819;00527;Peter Wilhelm App;Malerei
+1819;00528;Carl Kupfer;Druckgraphik
+1819;00529;Johann Risbacher;keine_angaben
+1819;00530;Johann Jacob Stehlin;Architektur
+1819;00531;Karl Bandel;Architektur
+1819;00532;Lorenz Ritz;Malerei
+1819;00533;Franz Gustav Joachim Forsmann;Architektur
+1819;00534;Carl Beneke;Architektur
+1819;00535;Johann Georg Stecher;Architektur
+1819;00536;Philipp Ottmann;Architektur
+1819;00537;Friedrich Fromm;Malerei
+1819;00538;Ludwig Schwannthaler;Bildhauerei
+1819;00539;Xaver Schwannthaler;Bildhauerei
+1819;00540;Friedrich Chatel;Zeichnen
+1819;00541;Franz Aubinger;Zeichnen
+1819;00542;Wilhelm Siegrist;Druckgraphik
+1819;00543;Carl Dobmayer;Architektur
+1819;00544;Franz Sal. Fröhlich;Bildhauerei
+1819;00545;Louis Hofer;Bildhauerei
+1819;00546;Louise Wolf;Malerei
+1819;00547;Mathias Krampf;Bildhauerei
+1819;00548;Michael Homann;Zeichnen
+1819;00549;Ernst Mayer;Bildhauerei
+1819;00550;Georg Krauter;Bildhauerei
+1819;00551;Joseph Lötscher;Malerei
+1819;00552;Franz Sellmayer;Malerei
+1819;00553;Theodor Leopold Weller;Malerei
+1819;00554;Heinrich Dürr;Malerei
+1819;00555;Johann Fauser;Bildhauerei
+1819;00556;Felix Wilhelm Kubli;Architektur
+1819;00557;Wolfgang Flachenecker;Malerei
+1819;00558;Jacob Götzenberger;Malerei
+1819;00559;Johann Högler;Architektur
+1819;00560;Joseph Friedl;Malerei
+1819;00561;Johann Conrad Schmidt;Architektur
+1819;00562;a Johann Adam Ott;Architektur
+1819;00562;b Johann Nepomuk Fink;Bildhauerei
+1819;00563;Xaver Kuppelmayer;Architektur
+1819;00564;Carl Jacob Samuel Kinkelin;Architektur
+1819;00565;Gustav Adolph Wetter;keine_angaben
+1820;00566;Joachim Müller;Bildhauerei
+1820;00567;Friedrich Hofstadt;Zeichnen
+1820;00568;Joseph Deinsdorfer;Architektur
+1820;00569;Franz Fidel Herz;Malerei
