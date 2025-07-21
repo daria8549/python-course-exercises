@@ -1,25 +1,32 @@
 # python-course-exercises
+# Python Course Exercises
 
-This repository contains a collection of Jupyter Notebooks and Python scripts from my university coursework in programming and data structures. The exercises cover a range of foundational topics in Python, including:
+This repository contains a collection of Jupyter Notebooks and Python scripts created during university coursework, tutorials, and exam preparation. These exercises reflect practical hands-on training in programming, data structures, and basic algorithm design.
 
-- Functions and classes
-- Searching and sorting
-- Data structures (lists, arrays, dictionaries)
-- Binary trees and tree traversal
-- Hashing and hash tables
+## Contents
 
-The code is structured as standalone exercises, written and tested during practical lab sessions. These files reflect my learning progress and hands-on work throughout the course.
+The exercises cover a wide range of foundational topics in Python:
 
-> Note: These are educational exercises and may not reflect production-level code.
+- Functions and custom classes
+- String manipulation and control structures
+- Searching and sorting algorithms
+- Linked lists and binary trees
+- Hash tables and hashing logic
+- Recursion and algorithm tracing
+- Tutorial and in-class programming drills
+- Exam-style practice problems
 
-## Folder Contents
+## File Structure
 
-- `2_Funktions_Classes_Exercise.ipynb`
-- `3_Suchen_und_Sortieren_Python.ipynb`
-- `4_Datenstrukturen_Python.ipynb`
-- `5_Baeume_Python.ipynb`
-- `6_Hashing_Python.ipynb`
-- `Ass1_Sort_Assignment.ipynb`
-- `Ass2_Data_Structures.ipynb`
-- `Ass3_Tree_Structure.ipynb`
-- `Ass4_Hashing.ipynb`
+- `Exam_*.ipynb` – Exam preparation notebooks with focused algorithm exercises
+- `Ass*.ipynb` – Assignments on data structures, sorting, trees, and hashing
+- `Exercises_*.ipynb` – Thematic exercises (e.g., sorting, hash tables)
+- `Tutorial * - Exercises.ipynb` – Guided tutorial sessions with in-class tasks
+- `InClass_exercises.ipynb` – Mixed problems from lectures or labs
+- `data/` – (Optional) Supporting datasets for selected exercises
+
+## Notes
+
+- All files are standalone notebooks unless stated otherwise.
+- These notebooks are part of the coursework for an introductory programming and data structures class.
+- Code is educational and optimized for clarity, not production use.
